@@ -1,0 +1,7 @@
+C:\Users\SHIRVAN\Desktop\reversetask\reversetask\bin\Debug\reversetask.exe.config
+C:\Users\SHIRVAN\Desktop\reversetask\reversetask\bin\Debug\reversetask.exe
+C:\Users\SHIRVAN\Desktop\reversetask\reversetask\bin\Debug\reversetask.pdb
+C:\Users\SHIRVAN\Desktop\reversetask\reversetask\obj\Debug\reversetask.csprojResolveAssemblyReference.cache
+C:\Users\SHIRVAN\Desktop\reversetask\reversetask\obj\Debug\reversetask.csproj.CoreCompileInputs.cache
+C:\Users\SHIRVAN\Desktop\reversetask\reversetask\obj\Debug\reversetask.exe
+C:\Users\SHIRVAN\Desktop\reversetask\reversetask\obj\Debug\reversetask.pdb

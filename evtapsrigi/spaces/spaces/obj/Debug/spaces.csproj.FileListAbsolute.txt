@@ -1,0 +1,14 @@
+C:\Users\SHIRVAN\Desktop\c#generaltemplates (1)\spaces\spaces\bin\Debug\spaces.exe.config
+C:\Users\SHIRVAN\Desktop\c#generaltemplates (1)\spaces\spaces\bin\Debug\spaces.exe
+C:\Users\SHIRVAN\Desktop\c#generaltemplates (1)\spaces\spaces\bin\Debug\spaces.pdb
+C:\Users\SHIRVAN\Desktop\c#generaltemplates (1)\spaces\spaces\obj\Debug\spaces.csprojResolveAssemblyReference.cache
+C:\Users\SHIRVAN\Desktop\c#generaltemplates (1)\spaces\spaces\obj\Debug\spaces.csproj.CoreCompileInputs.cache
+C:\Users\SHIRVAN\Desktop\c#generaltemplates (1)\spaces\spaces\obj\Debug\spaces.exe
+C:\Users\SHIRVAN\Desktop\c#generaltemplates (1)\spaces\spaces\obj\Debug\spaces.pdb
+C:\Users\SHIRVAN\Desktop\spaces\spaces\bin\Debug\spaces.exe.config
+C:\Users\SHIRVAN\Desktop\spaces\spaces\bin\Debug\spaces.exe
+C:\Users\SHIRVAN\Desktop\spaces\spaces\bin\Debug\spaces.pdb
+C:\Users\SHIRVAN\Desktop\spaces\spaces\obj\Debug\spaces.csprojResolveAssemblyReference.cache
+C:\Users\SHIRVAN\Desktop\spaces\spaces\obj\Debug\spaces.csproj.CoreCompileInputs.cache
+C:\Users\SHIRVAN\Desktop\spaces\spaces\obj\Debug\spaces.exe
+C:\Users\SHIRVAN\Desktop\spaces\spaces\obj\Debug\spaces.pdb

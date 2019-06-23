@@ -1,0 +1,7 @@
+C:\Users\SHIRVAN\Desktop\averagetaskhw\averagetaskhw\bin\Debug\averagetaskhw.exe.config
+C:\Users\SHIRVAN\Desktop\averagetaskhw\averagetaskhw\bin\Debug\averagetaskhw.exe
+C:\Users\SHIRVAN\Desktop\averagetaskhw\averagetaskhw\bin\Debug\averagetaskhw.pdb
+C:\Users\SHIRVAN\Desktop\averagetaskhw\averagetaskhw\obj\Debug\averagetaskhw.csprojResolveAssemblyReference.cache
+C:\Users\SHIRVAN\Desktop\averagetaskhw\averagetaskhw\obj\Debug\averagetaskhw.csproj.CoreCompileInputs.cache
+C:\Users\SHIRVAN\Desktop\averagetaskhw\averagetaskhw\obj\Debug\averagetaskhw.exe
+C:\Users\SHIRVAN\Desktop\averagetaskhw\averagetaskhw\obj\Debug\averagetaskhw.pdb
